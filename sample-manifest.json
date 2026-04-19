@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e819fac8-b3f0-45c2-a3f4-41c85895a170",
+  "export_job_id": "e4c9a1c1-af1f-4efa-8310-cf4836d5c1f9",
   "id_short": 403141,
-  "published_at": "2026-04-12T07:27:50Z",
+  "published_at": "2026-04-19T07:25:39Z",
   "repo_name": "top-50-restaurant-category-dominators-in-new-mexico-us-sample-403141",
   "sample_asset_name": "beamstation_403141_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/403141/beamstation_403141_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_records": 4,
-  "sample_sha256": "4045136bac80168f617a0f363162acd2494f4bba464a66de5f39df4c36e02fc7",
-  "sample_size_bytes": 32657,
+  "sample_sha256": "7579fc5a19862c8ddbbbe73969c5790932bca6ca618421c33cc398808249331f",
+  "sample_size_bytes": 34134,
   "total_records": 49
 }
